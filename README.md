@@ -40,7 +40,7 @@ Customer-level:
 
 View interactive dashboard here:
 
-[Tableau Dashboard Link](PASTE_YOUR_TABLEAU_LINK_HERE)
+[Tableau Dashboard Link](https://public.tableau.com/app/profile/analu.ramos8246/viz/tableu-project_17715846450950/MarketplaceSearchRankingPerformanceDashboard)
 
 ## Notebook
 
